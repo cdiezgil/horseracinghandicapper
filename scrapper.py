@@ -243,4 +243,3 @@ def test_carrera(url):
 
 
 procesarDatos()
-#test_carrera("https://www.todoturf.net/Html3/resultados2.php?numero=24&fecha=2007-12-30%2000:00:00&pais=ESP&tipo=LISO")
